@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="dark_mode">Dark Mode</string>
+
+    <string name="login">example</string>
+    <string name="name">Full Name</string>
+    <string name="html_url">https://github.com/users/example</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="added_to_favorite">User added to favorite</string>
+    <string name="removed_from_favorite">User removed from favorite</string>
+    <string name="favorite_user_list_is_empty">Favorite user list is empty</string>
+</resources>
